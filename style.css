@@ -1,6 +1,7 @@
 body {
   background-image: url(https://files.catbox.moe/9op83i.png);
-  background-size: 15px 15px;
+  background-repeat: repeat;
+  background-size: 30px 30px;
 }
 
 .boxie {
