@@ -5,5 +5,8 @@ body {
 .boxie {
   width: auto;
   height: auto;
-  background-color:
+  background-color: #ffadce;
+  border-radius: 25px;
+  padding: 5px;
+  box-shadow: 3px 3px #ffe470;
 }
