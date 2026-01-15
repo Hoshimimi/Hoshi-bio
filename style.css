@@ -1,6 +1,6 @@
 body {
   background-image: url(https://files.catbox.moe/9op83i.png);
-  background-size: 50px 50px;
+  background-size: 100px 100px;
 }
 
 .boxie {
@@ -16,4 +16,5 @@ body {
 h1, p {
   color: #00c4e2;
   font-family: "Verdanna", "Sans-serif";
+  font-size: 30px;
 }
